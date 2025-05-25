@@ -131,6 +131,7 @@
     <ClInclude Include="include\system_administration.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="src\booking_management.cpp" />
     <ClCompile Include="src\crew_management.cpp" />
     <ClCompile Include="src\flight_management.cpp" />
