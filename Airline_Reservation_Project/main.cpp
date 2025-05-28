@@ -25,12 +25,12 @@ int main() {
     while (running) {
         // Display menu
         cout << "\n*** Airline Reservation System ***\n";
-        cout << "1. Aircraft Assignment (A.7)\n";
-        cout << "2. List All Passengers (B.15)\n";
-        cout << "3. Refund Management (C.28)\n";
-        cout << "4. Assign Crew to Flight (D.34)\n";
-        cout << "5. Dashboard (E.50)\n";
-        cout << "6. API Integration (F.57) - Weather Info\n";
+        cout << "1. Aircraft Assignment\n";
+        cout << "2. List All Passengers\n";
+        cout << "3. Refund Management\n";
+        cout << "4. Assign Crew to Flight\n";
+        cout << "5. Dashboard\n";
+        cout << "6. API Integration - Weather Info\n";
         cout << "0. Exit\n";
         cout << "Enter choice: ";
         cin >> choice;
