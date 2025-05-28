@@ -1,0 +1,5 @@
+NewYork: 20°C, Sunny
+Paris: 18°C, Cloudy
+Tokyo: 25°C, Rainy
+Dubai: 40°C, Sunny
+London: 15°C, Foggy

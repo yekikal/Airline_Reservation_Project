@@ -123,21 +123,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="include\booking_management.h" />
-    <ClInclude Include="include\crew_management.h" />
-    <ClInclude Include="include\flight_management.h" />
-    <ClInclude Include="include\passenger_management.h" />
-    <ClInclude Include="include\reporting.h" />
-    <ClInclude Include="include\system_administration.h" />
+    <ClInclude Include="include\Booking.h" />
+    <ClInclude Include="include\Crew.h" />
+    <ClInclude Include="include\Flight.h" />
+    <ClInclude Include="include\Passenger.h" />
+    <ClInclude Include="include\Aircraft.h" />
+    <ClInclude Include="include\Weather.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="src\booking_management.cpp" />
-    <ClCompile Include="src\crew_management.cpp" />
-    <ClCompile Include="src\flight_management.cpp" />
-    <ClCompile Include="src\passenger_management.cpp" />
-    <ClCompile Include="src\reporting.cpp" />
-    <ClCompile Include="src\system_administration.cpp" />
+    <ClCompile Include="src\Booking.cpp" />
+    <ClCompile Include="src\Crew.cpp" />
+    <ClCompile Include="src\Flight.cpp" />
+    <ClCompile Include="src\Passenger.cpp" />
+    <ClCompile Include="src\Aircraft.cpp" />
+    <ClCompile Include="src\Weather.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="aircraft.txt" />
+    <Text Include="bookings.txt" />
+    <Text Include="crew.txt" />
+    <Text Include="flights.txt" />
+    <Text Include="passengers.txt" />
+    <Text Include="weather.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
