@@ -1,3 +1,15 @@
 301 Boeing737
 302 AirbusA320
 303 Cessna172
+304 EmbraerE175
+305 BombardierCRJ900
+306 Boeing747
+307 AirbusA380
+308 Boeing777
+309 AirbusA350
+310 Boeing787
+311 AirbusA330
+312 EmbraerE190
+313 BombardierQ400
+314 CessnaCitation
+315 GulfstreamG650

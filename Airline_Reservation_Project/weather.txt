@@ -3,3 +3,10 @@ Paris: 18°C, Cloudy
 Tokyo: 25°C, Rainy
 Dubai: 40°C, Sunny
 London: 15°C, Foggy
+LosAngeles: 22°C, Sunny
+Berlin: 16°C, Cloudy
+Sydney: 30°C, Sunny
+Mumbai: 35°C, Humid
+Jakarta: 28°C, Rainy
+Istanbul: 22°C, Cloudy
+Moscow: -5°C, Snowy
